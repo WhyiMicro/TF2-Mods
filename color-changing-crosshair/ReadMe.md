@@ -1,11 +1,3 @@
-Color Changing Crosshair scripts for [Team Fortress 2](https://betterdiscord.app/](https://www.teamfortress.com).\n
-You can find raw page [here](https://tf2imicro.github.io/custom-css/custom.css).
+Color Changing Crosshair scripts for [Team Fortress 2](https://betterdiscord.app/](https://www.teamfortress.com).
 ## Installation
-On Discord, go to **Settings > Custom CSS** and add the following code:
-
-    @import url("https://tf2imicro.github.io/custom-css/custom.css");
-### Changelog
-+ [02.08.22] Added Roles Backgrounds
-+ [02.08.22] Added MacOs Titlebar Buttons with my own twist
-+ [03.08.22] Fixed UserPopout-Border.css to work again
-+ [04.08.22] Fixed UserPopout-Border.css so popout is interactable
+Choose if you want color changing script for default movement or [nullcanceling](https://wiki.teamfortress.com/wiki/Scripting#Null-Cancelling_Movement_Scripts). Go to the appropriate file (default or null) and copy the context within it. Now go to your tf2 local files **tf > cfg** and find your autoexec.
